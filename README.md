@@ -31,5 +31,14 @@ The following steps outline the deployment process:
    composer install
 3. **Environment Configuration:**
    Copy .env.example to .env and configure your database settings.
+4. **Database Migration:**
+   ```bash
+   php artisan migrate
+5. **Generate Application Key:**
+   ```bash
+   php artisan key:generate
+6. **Serve the Application:**
+   ```bash
+   php artisan serve
 
 
