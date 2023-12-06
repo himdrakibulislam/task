@@ -26,3 +26,8 @@ The following steps outline the deployment process:
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
    cd library-management-system
+1. **Install Dependencies::**
+   ```bash
+   composer install
+
+
