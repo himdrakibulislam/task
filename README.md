@@ -26,8 +26,10 @@ The following steps outline the deployment process:
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
    cd library-management-system
-1. **Install Dependencies::**
+2. **Install Dependencies:**
    ```bash
    composer install
+3. **Environment Configuration:**
+   Copy .env.example to .env and configure your database settings.
 
 
