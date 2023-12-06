@@ -24,8 +24,8 @@ The following steps outline the deployment process:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/himdrakibulislam/task.git
+   cd task
 2. **Install Dependencies:**
    ```bash
    composer install
